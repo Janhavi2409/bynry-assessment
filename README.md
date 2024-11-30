@@ -1,4 +1,3 @@
-```markdown
 # Gas Utility Service
 
 This is a web application designed to streamline gas utility services by allowing users to submit service requests, track their status, and view detailed information about each request. The application provides an easy-to-use interface where users can submit their details and receive real-time updates about their service requests.
