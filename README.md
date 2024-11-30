@@ -1,5 +1,3 @@
-Sure! Here's the README in markdown format:
-
 ```markdown
 # Gas Utility Service
 
@@ -115,4 +113,4 @@ python manage.py test
 
 This project provides a simple and effective way to submit and track service requests for gas utility services. It uses Django to manage the backend, and the templates and static files provide a responsive and user-friendly frontend.
 
-```
+
